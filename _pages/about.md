@@ -15,6 +15,6 @@ Previously, I've interned at [IBM](https://www.ibm.com/us-en) in strategic consu
 
 I'm currently exploring opportunities in the job market for roles such as Data Analyst, Financial Analyst, or Fintech Analyst, where I can combine my quantitative background, technical skills, and business understanding to create value for organizations. I'm especially interested in positions that involve interpreting data to support strategic decision-making, improve operational efficiency, or contribute to financial growth.
 
-You can find my CV here: [Jiamin's Curriculum Vitae](../assets/Curriculum Vitae.pdf).
+You can find my CV here: Jiamin's [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Thank you for considering my profile—I'd love the opportunity to discuss how I can contribute to your team.
